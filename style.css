@@ -1,0 +1,54 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("tv.webp"); background-repeat: no-repeat; background-size: cover;
+}
+
+nav {
+    font-family:Georgia, 'Times New Roman', Times, serif; font-style: italic; padding: 10px;
+    font-size: 20px;
+}
+
+a {
+    color: whitesmoke; padding: 15px; text-decoration: none;
+}
+
+a:hover {
+    color: skyblue;
+}
+
+.tv {
+    font-size: 30px; font-family: cursive; padding: 30px; text-align: center; color: whitesmoke;
+}
+
+.searchbox {
+    width:auto; padding: 5%; padding-bottom: 50%;
+}
+
+.swal-modal {
+    background: rgba(0, 0, 0, 0.8); 
+}
+
+.swal-text {
+    padding: 10px; display: block; color:whitesmoke; font-size: 20px; text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.swal-button {
+    background-color: black;
+}
+
+.about {
+    text-align: center; color: whitesmoke; width: 40%;
+}
+
+#text {
+    font-size: 15px; font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    padding-top: 20px; color:whitesmoke; font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+}
